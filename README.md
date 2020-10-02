@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey 👋👨🏻‍💻
 
-<!--
-**brcds/brcds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bruno Cristiano, I'm from brazil 🇧🇷 i'm A computer enginner,that has been working as back-end developer since 2019.
 
-Here are some ideas to get you started:
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face chances.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 From Alagoas living in Maceió
+💻 Back-end enginner at Fontedepreços
+
+follow me: 👇
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Cristiano-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunocristianods/)](https://www.linkedin.com/in/brunocristianods/) 
+[![Gmail Badge](https://img.shields.io/badge/-brunocristianocontato@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocristianocontato@gmail.com)](mailto:brunocristianocontato@gmail.com)
