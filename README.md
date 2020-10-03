@@ -13,6 +13,3 @@ follow me: 👇
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Cristiano-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunocristianods/)](https://www.linkedin.com/in/brunocristianods/) </br>
 [![Gmail Badge](https://img.shields.io/badge/-brunocristianocontato@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocristianocontato@gmail.com)](mailto:brunocristianocontato@gmail.com)
 
-[![BRCDS github stats](https://github-readme-stats.vercel.app/api?username=brcds&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brcds&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
