@@ -5,7 +5,7 @@ My name is Bruno Cristiano, I'm from brazil 🇧🇷 i'm A computer enginner,tha
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face chances.
 
 📍 From Alagoas living in Maceió </br>
-💻 Back-end enginner at Fontedepreços
+💻 Back-end enginner
 
 follow me: 👇
 
