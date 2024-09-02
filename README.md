@@ -17,7 +17,9 @@ Sou um desenvolvedor backend especializado em Python, com experiência em framew
 </div>
 </br>
 <div> 
-   <a href="https://linkedin.com/in/brunocristianods" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+<a href="https://linkedin.com/in/brunocristianods">
+<img alt="Linkedin Badge" src="https://img.shields.io/badge/Bruno%20Cristiano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunocristianods"/></a>
  
   <!-- ![Snake animation](https://github.com/brcds/brcds/blob/output/github-contribution-grid-snake.svg) -->
  
